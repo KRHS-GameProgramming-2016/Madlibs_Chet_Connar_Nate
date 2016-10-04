@@ -1,0 +1,4 @@
+def splash():
+    screen = ""
+    screen += 
+    
