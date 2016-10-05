@@ -1,3 +1,0 @@
-from shapes_new import *
-from math import *
-Titan.fd(50)

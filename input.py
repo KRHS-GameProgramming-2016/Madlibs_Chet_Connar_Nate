@@ -4,7 +4,8 @@ def isSwear(word):
                  "peepee",
                  "meme",
                  "hillary",
-                 "trump"
+                 "trump",
+                 
                  ]
     if word in swearList:
         return True

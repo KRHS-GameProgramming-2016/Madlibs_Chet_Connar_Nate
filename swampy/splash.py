@@ -1,4 +1,0 @@
-def splash():
-    screen = ""
-    screen += 
-    
