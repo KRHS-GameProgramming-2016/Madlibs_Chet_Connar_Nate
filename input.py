@@ -5,6 +5,23 @@ def isSwear(word):
                  "meme",
                  "hillary",
                  "trump",
+                 "shit",
+                 "Chink",
+                 "Damn",
+                 "fag",
+                 "faggot",
+                 "gay",
+                 "hell",
+                 "Math",
+                 "PS4",
+                 "PS 4",
+                 "PS",
+                 "PlayStation",
+                 "Harambe",
+                 "Cecil",
+                 "Cecil the lion",
+                 
+                 
                  
                  ]
     if word in swearList:
