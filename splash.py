@@ -7,7 +7,7 @@ def splash():
     screen += "*           Madlibs             *\n"
     screen += "*                               *\n"
     screen += "*                               *\n"
-    screen += "*       by NAMES                *\n"
+    screen += "*       by NAMES connar                *\n"
     screen += "*                               *\n"
     screen += "*       press enter to continue *\n"
     screen += "*********************************\n"

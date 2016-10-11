@@ -1,6 +1,6 @@
 from input import *
 
-#Written by Mr. Spooner
+#Written by connar dunn
 def story():
     location1 = getWord("Enter a location: ")
     temperature1 = getNumber("Enter a Number: ")
@@ -9,4 +9,8 @@ def story():
     text += "One day I went to the " + location1
     text += ". It was like a " + temperature1
     text += " out."    
+    text +=" out." 
+    text +=" out." 
+    
     return text
+    
