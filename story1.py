@@ -8,10 +8,10 @@ def story():
     
     text = ""
     text += "One day I went to the " + location1
-    text += ". It was like a " + temperature1
-    text += " out."    
-    text +=" out." 
-    text +=" out." 
+    text += ". It was like " + temperature1
+    text += " outside."    
+    text +=" " 
+    text +=" " 
     
     return text
     
