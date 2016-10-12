@@ -13,8 +13,8 @@ def story():
     text +=" Then suddenly, a wild " + pokemon1
     text +=" appeared! " 
     text +="While the pokemon ate all of the " + food1
-    text +=" We all watched it wondering how a random pokemon got here"
-    text +=" while the pokemon ate the food we continued doing normal things." 
+    text +=" We all watched it wondering how a random pokemon got here."
+    text +=" While the pokemon ate the food we continued doing normal things." 
     
     return text
     
