@@ -20,6 +20,13 @@ def isSwear(word):
                  "Harambe",
                  "Cecil",
                  "Cecil the lion",
+                 "Douchebag",
+                 "Ass",
+                 "Fuck",
+                 "Dick",
+                 "Dik",
+                 "Dic",
+                 "Vagina",
                  
                  
                  
