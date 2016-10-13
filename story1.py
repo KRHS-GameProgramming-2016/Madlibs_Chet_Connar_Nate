@@ -1,12 +1,12 @@
 from input import *
 
-#Written by Nathan, Chett, and 
+#Written by Nathan
 def story():
     location1 = getWord(" Enter a location: ")
     temperature1 = getNumber(" Enter a Number: ")
     food1 = getWord (" enter food: " )
     pokemon1 =getWord(" enter a pokemon: ")
-    adjective1 =getword " enter a adjective: "
+    adjective1 =getword (" enter a adjective: ")
     text = ""
     text += "One day I went to " + location1
     text += ". It was like " + temperature1
