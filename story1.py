@@ -16,7 +16,7 @@ def story():
     text+= " ate all of the " + food1
     text +=" We all watched it wondering how it got here."
     text +=" While the pokemon ate the " + food1
-    text += " food we continued doing normal things." 
+    text += " we continued doing normal things." 
     
     return text
     
