@@ -3,6 +3,7 @@ def isSwear(word):
                  "pee",
                  "peepee",
                  "meme",
+                 "penis",
                  "hillary",
                  "trump",
                  "shit",
@@ -27,7 +28,7 @@ def isSwear(word):
                  "Dik",
                  "Dic",
                  "Vagina",
-                 
+                  
                  
                  
                  ]
