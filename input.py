@@ -31,7 +31,10 @@ def isSwear(word):
                  "Vagina",
                  "Dingus",
                  "John",
-                 "",
+                 "African american",
+                 "african americun",
+                 "africa amurican",
+                 
                  
                  
                  ]
