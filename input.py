@@ -30,6 +30,10 @@ def isSwear(word):
                  "Dic",
                  "Vagina",
                  "Dingus",
+                 "John",
+                 "",
+                 
+                 
                  ]
     if word in swearList:
         return True
