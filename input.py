@@ -36,6 +36,7 @@ def isSwear(word):
                  "africa amurican",
                  "africa",
                  "Africa",
+                 "Ken Bone",
                  
                  
                  
