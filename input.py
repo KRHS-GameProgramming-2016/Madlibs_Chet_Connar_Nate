@@ -34,6 +34,8 @@ def isSwear(word):
                  "African american",
                  "african americun",
                  "africa amurican",
+                 "africa",
+                 "Africa",
                  
                  
                  
