@@ -37,6 +37,8 @@ def isSwear(word):
                  "africa",
                  "Africa",
                  "Ken Bone",
+                 "bone",
+                 
                  
                  
                  
