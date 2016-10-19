@@ -1,11 +1,11 @@
 from input import *
 
-#Written by connar dunn
+#Written by Chett
 def story():
     location1 = getWord("Enter a location: ")
     
     text = ""
-    text +=" one day 
+    text +=" I went over to " + location1
     
     
     return text
