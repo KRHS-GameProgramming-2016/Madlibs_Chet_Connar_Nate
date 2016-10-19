@@ -10,6 +10,7 @@ def story():
     adjective2 = getWord (" enter a seond adjective: ")
     mammal1 = getWord (" enter a mammal: ")
     difficulty1 = getWord (" enter a difficulty: ")
+    allpowerfulbeing1 = getWord (" Enter an all powerful being: ")
     text = ""
     text += "One day I went to " + location1
     text += ". It was like " + temperature1
@@ -27,7 +28,9 @@ def story():
     text += "'s might actually think, why continue?"
     tet += " The answer to that is so " + difficulty1
     text += " that they wonder why they even bothered wondering."
-    text += " While thats happening the 
+    text += " While thats happening the " + allpowerfulbeing1
+    text += " was busy doing his thing."
+    text += " Destroying planets if they felt like it."
     
     return text
     
