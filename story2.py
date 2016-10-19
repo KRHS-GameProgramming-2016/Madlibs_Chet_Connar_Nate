@@ -1,8 +1,12 @@
 from input import *
 
-#Written by Chett
+#Written by connar dunn
 def story():
-    noun1 = getWord (" Enter a Noun: ")
-    text =""
-    text += " I am a " + noun1
+    location1 = getWord("Enter a location: ")
+    
+    text = ""
+    text +=" one day 
+    
+    
     return text
+    
