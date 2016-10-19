@@ -5,7 +5,7 @@ def story():
     location1 = getWord("Enter a location: ")
     
     text = ""
-    text += "
+    text +=" one day 
     
     
     return text
