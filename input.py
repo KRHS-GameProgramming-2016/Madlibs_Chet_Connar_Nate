@@ -3,8 +3,42 @@ def isSwear(word):
                  "pee",
                  "peepee",
                  "meme",
+                 "penis",
                  "hillary",
+                 "hilarry",
                  "trump",
+                 "shit",
+                 "Chink",
+                 "Damn",
+                 "fag",
+                 "faggot",
+                 "gay",
+                 "hell",
+                 "Math",
+                 "PS4",
+                 "PS 4",
+                 "PS",
+                 "PlayStation",
+                 "Harambe",
+                 "Cecil",
+                 "Cecil the lion",
+                 "Douchebag",
+                 "Ass",
+                 "Fuck",
+                 "Dick",
+                 "Dik",
+                 "Dic",
+                 "Vagina",
+                 "Dingus",
+                 "John",
+                 "African american",
+                 "african americun",
+                 "africa amurican",
+                 "africa",
+                 "Africa",
+                 "Ken Bone",
+                 
+                 
                  
                  ]
     if word in swearList:
@@ -34,7 +68,7 @@ def getWord(prompt):
         if isSwear(response):
             goodInput = False
             print "Don't use that kind of language with me!"
-        return response
+    return response
 
 def getNumber(prompt):
     goodInput = False
