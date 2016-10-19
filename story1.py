@@ -18,7 +18,7 @@ def story():
     text +=" Then suddenly, a wild " + pokemon1
     text +=" appeared! " 
     text +="While the " + pokemon1
-    text+= " ate all of the " + food1
+    text += " ate all of the " + food1
     text +=" we all watched it wondering how it got here."
     text +=" While the pokemon ate the " + food1
     text += " we continued doing normal things." 
@@ -26,7 +26,7 @@ def story():
     text += ". While we continue this " + adjective2
     text += " story, some " + mammal1
     text += "'s might actually think, why continue?"
-    tet += " The answer to that is so " + difficulty1
+    text += " The answer to that is so " + difficulty1
     text += " that they wonder why they even bothered wondering."
     text += " While thats happening the " + allpowerfulbeing1
     text += " was busy doing his thing."
