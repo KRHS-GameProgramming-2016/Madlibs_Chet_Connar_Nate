@@ -9,7 +9,7 @@ def story():
     adjective1 =getWord (" enter a adjective: ")
     adjective2 = getWord (" enter a seond adjective: ")
     mammal1 = getWord (" enter a mammal: ")
-    difficulty1 = getWord (" enter a difficulty: ")
+    difficulty1 = getWord (" Easy or Hard: ")
     allpowerfulbeing1 = getWord (" Enter an all powerful being: ")
     text = ""
     text += "One day I went to " + location1
@@ -27,7 +27,7 @@ def story():
     text += " story, some " + mammal1
     text += "'s might actually think, why continue?"
     text += " The answer to that is so " + difficulty1
-    text += " that they wonder why they even bothered wondering."
+    text += " to understand that they wonder why they even bothered wondering."
     text += " While thats happening the " + allpowerfulbeing1
     text += " was busy doing his thing."
     text += " Destroying planets if they felt like it."
