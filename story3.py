@@ -1,6 +1,6 @@
 from input import *
 
-#Written by Connor
+#Written by Chett
 def story():
     noun1 = getWord (" Enter a Noun: ")
     text =""
