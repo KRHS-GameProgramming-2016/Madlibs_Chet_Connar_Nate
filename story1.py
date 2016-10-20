@@ -7,7 +7,7 @@ def story():
     food1 = getWord (" enter food: " )
     pokemon1 =getWord(" enter a pokemon: ")
     adjective1 =getWord (" enter a adjective: ")
-    adjective2 = getWord (" enter a seond adjective: ")
+    adjective2 = getWord (" enter a second adjective: ")
     mammal1 = getWord (" enter a mammal: ")
     difficulty1 = getWord (" Easy or Hard: ")
     allpowerfulbeing1 = getWord (" Enter an all powerful being: ")
@@ -30,7 +30,7 @@ def story():
     text += " to understand that they wonder why they even bothered wondering."
     text += " While thats happening the " + allpowerfulbeing1
     text += " was busy doing his thing."
-    text += " Destroying planets if they felt like it."
+    text += " Destroying planets if it felt like it."
     
     return text
     
