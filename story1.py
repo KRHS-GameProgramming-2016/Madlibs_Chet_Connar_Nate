@@ -11,6 +11,7 @@ def story():
     mammal1 = getWord (" enter a mammal: ")
     difficulty1 = getWord (" Easy or Hard: ")
     allpowerfulbeing1 = getWord (" Enter an all powerful being: ")
+    food2 = getWord (" Enter a second food: ")
     text = ""
     text += "One day I went to " + location1
     text += ". It was like " + temperature1
@@ -31,6 +32,9 @@ def story():
     text += " While thats happening the " + allpowerfulbeing1
     text += " was busy doing his thing."
     text += " Destroying planets if it felt like it."
+    text += " also eating " + food2
+    text += " because they happened to enjoy the taste. "
+    text += "
     
     return text
     
