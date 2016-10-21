@@ -10,7 +10,8 @@ def story():
     opponent1 = getWord (" Enter an opponent (who has arms): ")
     adjective2 = getWord (" Enter a second adjective: ")
     bodyofwater1 = getWord (" Enter a body of water: ")
-    food2 = getword (" Enter a second food item: ")
+    food2 = getWord (" Enter a second food item: ")
+    location2 = getWord (" Enter a second location: ")
     
     
     text = ""
@@ -23,7 +24,7 @@ def story():
     text += " to start lifting weights and stuff. "
     text += "After I beat " + opponent1
     text += " at arm wrestling I started to look " + adjective2
-    text += " at the " bodyofwater1
+    text += " at the " + bodyofwater1
     text += " I wondered how in the world I didnt have any " + food2
     text += " left."
     
