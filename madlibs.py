@@ -4,6 +4,7 @@ import story1
 import story2
 import story3
 
+
 def madlibs():
     print splash()
     raw_input()
