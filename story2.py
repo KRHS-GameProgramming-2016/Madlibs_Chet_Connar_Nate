@@ -5,7 +5,7 @@ def story():
     location1 = getWord (" Enter a location: ")
     food1 = getWord (" Enter a food: ")
     adjective1 = getWord (" Enter a adjective: ")
-    verb1 = getWord (" Enetr a verb: ")
+    verb1 = getWord (" Enter a verb: ")
     noun1 = getWord (" Enter a noun: ")
     opponent1 = getWord (" Enter an opponent (who has arms): ")
     adjective2 = getWord (" Enter a second adjective: ")
@@ -15,7 +15,7 @@ def story():
     
     text = ""
     text += " I went over to " + location1
-    text += " and decided that I had a razy craving for " + food1
+    text += " and decided that I had a crazy craving for " + food1
     text += ". While eating the " + adjective1
     text += " I decided to start " + verb1
     text += " the " + noun1
