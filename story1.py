@@ -34,7 +34,6 @@ def story():
     text += " Destroying planets if it felt like it."
     text += " also eating " + food2
     text += " because they happened to enjoy the taste. "
-    text += "
     
     return text
     
