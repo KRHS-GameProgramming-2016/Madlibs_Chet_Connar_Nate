@@ -1,6 +1,6 @@
 from input import *
 
-#Written by 
+#Written by Nathan
 def story():
     noun1 = getWord (" Enter a Noun: ")
     emotion1 = getWord (" Enter a emotion: ")
