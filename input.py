@@ -38,6 +38,13 @@ def isSwear(word):
                  "Africa",
                  "Ken Bone",
                  "bone",
+                 "nade",
+                 "grenade",
+                 "boner",
+                 "Trump",
+                 "Donald",
+                 "Donald Trump",
+                 
                  
                  
                  
