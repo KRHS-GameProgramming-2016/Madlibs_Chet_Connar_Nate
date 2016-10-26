@@ -60,6 +60,8 @@ def getMenuOption():
     goodResponses = ["1",
                      "2",
                      "3",
+                     "4",
+                     "5",
                      "q"]
     while not goodInput:
         response = raw_input(" Make a selection: ")

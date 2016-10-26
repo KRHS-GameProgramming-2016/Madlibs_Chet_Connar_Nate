@@ -22,6 +22,8 @@ def menu():
     screen += "*   1) Story 1                  *\n"
     screen += "*   2) Story 2                  *\n"
     screen += "*   3) Story 3                  *\n"
+    screen += "*   4) Story 4                  *\n"
+    screen += "*   5) Story 5                  *\n"
     screen += "*                               *\n"
     screen += "*   Q) Quit                     *\n"
     screen += "*                               *\n"

@@ -3,7 +3,8 @@ from input import *
 import story1
 import story2
 import story3
-
+import story4
+import story5
 
 def madlibs():
     print splash()
@@ -19,10 +20,11 @@ def madlibs():
         elif option == "2":
             print story2.story()
         elif option == "3":
-            print story3.story()
-            raw_input()
-        elif option == "2":
-            print story2.story()
+            print story3.story()]
+        elif option == "4":
+            print story4.story()
+        elif option == "5":
+            print story5.story()
             raw_input()
     print "Good Bye!"
     
