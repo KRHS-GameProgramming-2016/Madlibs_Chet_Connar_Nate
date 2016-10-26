@@ -37,6 +37,15 @@ def isSwear(word):
                  "africa",
                  "Africa",
                  "Ken Bone",
+                 "bone",
+                 "nade",
+                 "grenade",
+                 "boner",
+                 "Trump",
+                 "Donald",
+                 "Donald Trump",
+                 
+                 
                  
                  
                  
@@ -51,13 +60,15 @@ def getMenuOption():
     goodResponses = ["1",
                      "2",
                      "3",
+                     "4",
+                     "5",
                      "q"]
     while not goodInput:
-        response = raw_input("Make a selection: ")
+        response = raw_input(" Make a selection: ")
         if response.lower() in goodResponses:
             goodInput = True
         else:
-            print "Please make a valid selection!"
+            print " Please make a valid selection! "
     return response.lower()
 
 def getClass(prompt):
@@ -80,7 +91,7 @@ def getWord(prompt):
         goodInput = True
         if isSwear(response):
             goodInput = False
-            print "Don't use that kind of language with me!"
+            print " Don't use that kind of language with me! "
     return response
 
 def getNumber(prompt):
@@ -92,7 +103,7 @@ def getNumber(prompt):
         for character in response:
             if character not in numbers:
                 goodInput = False
-                print "Numbers only please!"
+                print " Numbers only please! "
     return response
         
         
