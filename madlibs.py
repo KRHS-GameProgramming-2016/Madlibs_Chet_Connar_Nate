@@ -20,9 +20,6 @@ def madlibs():
         elif option == "3":
             print story3.story()
             raw_input()
-        elif option == "2":
-            print story2.story()
-            raw_input()
     print "Good Bye!"
     
 

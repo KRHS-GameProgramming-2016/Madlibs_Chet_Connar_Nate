@@ -60,6 +60,19 @@ def getMenuOption():
             print "Please make a valid selection!"
     return response.lower()
 
+def getClass(prompt):
+    goodInput = False
+    goodResponses = ["ogre",
+                     "atlas",
+                     "strider"]
+    while not goodInput:
+        response = raw_input(prompt)
+        if response.lower() in goodResponses:
+            goodInput = True
+        else:
+            print "Please make a valid selection!"
+    return response.capitalize()
+
 def getWord(prompt):
     goodInput = False
     while not goodInput:
