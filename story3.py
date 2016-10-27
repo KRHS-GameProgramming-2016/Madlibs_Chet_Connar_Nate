@@ -16,7 +16,7 @@ def story():
     text += " who killed me. I then re-spawned and killed " + friendname1
     text += " I then left the game to go play some titanfall.  I play as a " + classname
     text += ". I have a " + number1
-    text += " to 1 k/d ration. "
+    text += " to 1 k/d ratio. "
     
     return text
   
