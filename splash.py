@@ -9,7 +9,7 @@ def splash():
     screen += "*                               *\n"
     screen += "*    by: Nathan, Chett, Connor  *\n"
     screen += "*                               *\n"
-    screen += "*       press enter to continue *\n"
+    screen += "*     press enter to continue   *\n"
     screen += "*********************************\n"
     return screen
 
